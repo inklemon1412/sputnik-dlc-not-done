@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sputnik dlc", "sputnik dlc\sputnik dlc.csproj", "{46203461-BC24-4077-81B8-CAA1471FE44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46203461-BC24-4077-81B8-CAA1471FE44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46203461-BC24-4077-81B8-CAA1471FE44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46203461-BC24-4077-81B8-CAA1471FE44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46203461-BC24-4077-81B8-CAA1471FE44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF0693A-4B60-47E1-9194-FDEDB40A01BE}
+	EndGlobalSection
+EndGlobal
